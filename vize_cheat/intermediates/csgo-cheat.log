@@ -1,0 +1,9 @@
+﻿  hooks.cpp
+c:\users\james\desktop\csgo cheats\vize_cheat\vize_cheat\dependencies\interfaces\ivengineclient.hpp(24): warning C4091: 'typedef ': ignored on left of 'player_info_t' when no variable is declared
+c:\users\james\desktop\csgo cheats\vize_cheat\vize_cheat\dependencies\utilities\render.hpp(118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 875 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csgo-cheat.vcxproj -> C:\Users\James\Desktop\CSGO Cheats\vize_cheat\vize_cheat\.\output\debug\vize_cheat.dll
